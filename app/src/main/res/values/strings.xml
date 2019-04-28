@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Image Processing</string>
+    <string name="result">Result :</string>
+    <string name="select_image">Select Image</string>
+    <string name="rationale_camera">This app needs access to your camera so you can take pictures.</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="flip_image">Flip</string>
+    <string name="smooth_image">Smooth</string>
+    <string name="emboss_image">Emboss Image</string>
+    <string name="rotate">Rotate</string>
+    <string name="flip">Flip</string>
+    <string name="smoothen">Smoothen</string>
+    <string name="check_color">Check Color</string>
+    <string name="go">Go to editing page</string>
+    <string name="sharpen">Sharpen</string>
+    <string name="mean_removal">Mean Removal</string>
+    <string name="engraving">Engrave</string>
+    <string name="emboss">Emboss</string>
+    <string name="how_to_do_that_jump_to_the_code">How to do that? Jump to the code below</string>
+    <string name="choose_action">Choose Action</string>
+</resources>
